@@ -5,6 +5,7 @@ This repository contains a simple Web API project built using .NET 7 that perfor
 Before running the application, ensure that you have the following prerequisites installed on your machine:
 
 .NET 7 SDK
+
 SQLite
 
 # Getting Started
