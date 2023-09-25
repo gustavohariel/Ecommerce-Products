@@ -1,4 +1,4 @@
-# Web API CRUD using .NET 7, Swagger, and SQLite
+# Ecommerce-Products
 This repository contains a simple Web API project built using .NET 7 that performs CRUD (Create, Read, Update, Delete) operations on a SQLite database (app.db). Swagger is also integrated to provide API documentation and testing capabilities.
 
 # Prerequisites
